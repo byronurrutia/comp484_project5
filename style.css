@@ -1,0 +1,19 @@
+header {
+  margin-bottom: 8px;
+}
+
+#prof-img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.contact-info a {
+  padding: 10px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  transition: all 0.3s ease 0s;
+  color: #00adb5;
+}
